@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.lacoolshop.com" version="1.0.0">
     
     <name>Lacool Shop</name>
     <description>樂享生活酷愛精彩</description>
-    <author href="http://localhost/lacool/index.php/home" email="service@lacoolshop.com">樂酷食品股份有限公司</author>
+    <author href="http://www.lacoolshop.com/index.php/home" email="service@lacoolshop.com">樂酷食品股份有限公司</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
