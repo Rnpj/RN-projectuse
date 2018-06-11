@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.lacoolshop.com/index.php/home" version="1.0.3.6">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.lacoolshop.com/index.php/home" version="1.0.361">
     
     <name>Lacool Shop</name>
     <description>專為餐飲業者提供優質產品與服務的一個APP，透過手機或平板快速下單，簡單又方便，裡面還有超多飲品配方，讓你隨時隨地激發創意</description>
