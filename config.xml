@@ -15,7 +15,7 @@
     <content src="index.html"/>
     <icon src="icon.png"/>
     <!-- iOS 8.0+ & IOS 7.0+ -->
-    <icon src="ios/icon.png" platform="ios" width="1024" height="1024" />
+    <icon src="ios/iTunes-1024.png" platform="ios" width="1024" height="1024" />
     <!-- iPhone 6/ 6 Plus  -->
     <icon src="ios/icon-60@3x.png" platform="ios" width="180" height="180" />
 
