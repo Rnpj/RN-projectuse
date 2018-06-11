@@ -14,11 +14,8 @@
   
     <content src="index.html"/>
     <icon src="icon.png"/>
-    <!-- iOS 8.0+ -->
-    <!-- iPhone 6 Plus  -->
-    <icon src="ios/icon-60@3x.png" platform="ios" width="180" height="180" />
-    
-    <!--IOS 7.0+// iPhone 6 / 6+ -->
+    <!-- iOS 8.0+ & IOS 7.0+ -->
+    <!-- iPhone 6/ 6 Plus  -->
     <icon src="ios/icon-60@3x.png" platform="ios" width="180" height="180" />
 
     <!-- iPhone / iPod Touch  -->
