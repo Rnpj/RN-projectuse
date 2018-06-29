@@ -49,6 +49,15 @@
     <!-- iPad Spotlight and Settings Icon -->
     <icon src="ios/icon-50.png" platform="ios" width="50" height="50" />
     <icon src="ios/icon-50@2x.png" platform="ios" width="100" height="100" />
+    
+    <!-- Android Icon -->
+    <icon src="android/ldpi.png" platform="android" qualifier="ldpi" />
+    <icon src="android/mdpi.png" platform="android" qualifier="mdpi" />
+    <icon src="android/hdpi.png" platform="android" qualifier="hdpi" />
+    <icon src="android/xhdpi.png" platform="android" qualifier="xhdpi" />
+    <icon src="android/xxhdpi.png" platform="android" qualifier="xxhdpi" />
+    <icon src="android/xxxhdpi.png" platform="android" qualifier="xxxhdpi" />
+    <icon src="android/playstore-icon.png" platform="android" qualifier="playstore-icon" />
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-7.1.0" />
