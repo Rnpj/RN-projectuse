@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-RN-projectuse.renoirpuzzle.com.tw" version="2.8.02">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-RN-projectuse.renoirpuzzle.com.tw" version="2.8.03">
     
     <name>Renoir Puzzle</name>
     <description>拼圖．不只是拼圖</description>
-    <author href="https://newapp.renoirpuzzle.com.tw" email="Leon_Lee@renoirpuzzle.com.tw">雷諾瓦拼圖文化坊</author>
+    <author href="http://newapp.renoirpuzzle.com.tw" email="Leon_Lee@renoirpuzzle.com.tw">雷諾瓦拼圖文化坊</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
