@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-RN-projectuse.renoirpuzzle.com.tw" version="2.8.01">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-RN-projectuse.renoirpuzzle.com.tw" version="2.8.02">
     
     <name>Renoir Puzzle</name>
     <description>拼圖．不只是拼圖</description>
